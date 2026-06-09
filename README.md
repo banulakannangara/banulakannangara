@@ -31,7 +31,7 @@
 - Earn Networking Certifications
 - Grow GitHub Portfolio
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=banulakannangara&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **banulakannangara/banulakannangara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
