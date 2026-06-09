@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+I'm+Banula;Network+Engineering+Student;Cybersecurity+Enthusiast;Learning+C+Python+and+Linux)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=banulakannangara&color=blue)
 ##  Hi, I'm Banula 👋
 
 🎓 First-Year Network Engineering Student
