@@ -1,30 +1,61 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+I'm+Banula;Network+Engineering+Student;Cybersecurity+Enthusiast;Learning+C+Python+and+Linux)](https://git.io/typing-svg)
+# GitHub Profile README
 
-![](https://komarev.com/ghpvc/?username=banulakannangara&color=blue)
+<div align="center">
+
+# 👋 Hi, I'm Banula Kannangara
+
+### 🌐 Network Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
+
+Building things, learning networking, and experimenting with modern technologies.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banula-vimeth-8b9547292/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banulakannangara)
+<a href="https://github.com/banulakannangara">
+  <img src="https://komarev.com/ghpvc/?username=banulakannangara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4OW0xZnAweXp5eXBjM3RsNzZzczVyeGtsYWg1b2N2OW1zN3RmMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VtDRXohjexcyCDlL6Z/giphy.gif" width="200"/>
-
-# Hi, I'm Banula 👋
-
-🎓 First-Year Network Engineering Student
-
-🔐 Cybersecurity Enthusiast
-
-💻 Learning C, Python, Linux & Networking
-
-🚀 Building projects and sharing my learning journey
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode" />
+* 🎓 Studying **Network Engineering**
+* 🌐 Interested in **Networking & Cybersecurity**
+* 💻 Building projects with **HTML, CSS, JavaScript, C & SQL**
+* 🚀 Currently developing **NE-Toolkit**
+* 🧠 Always learning something new
+* ⚡ I enjoy turning ideas into working projects
+
+---
+
+## 🚀 Featured Project
+
+### 🌐 NE-Toolkit
+
+A network engineering toolkit designed to make networking concepts easier to understand and experiment with.
+
+**Current features include:**
+
+* 🔢 Subnet Calculator
+* 🔄 CIDR Converter
+* 🧮 IPv4 → Binary
+* 🖥️ Network Lab
+* 🔌 Network topology simulation
+* 📡 Device configuration
+* 📨 Frame transmission visualization
+* 🧠 Network intelligence and topology analysis
+
+🔗 **[View NE-Toolkit](https://github.com/banulakannangara)**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,sql,mysql,git,github,vscode,linux" />
+
 </p>
 
 ---
@@ -32,8 +63,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=banulakannangara&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banulakannangara&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=banulakannangara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banulakannara&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -41,45 +75,59 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=banulakannangara&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=banulakannangara&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=banulakannangara&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🌱 Current Focus
-
-- Network Engineering Diploma
-- Python Programming
-- Linux Administration
-- Cybersecurity Fundamentals
-- Git & GitHub
-
----
-
-## 🎯 Goals for 2026
-
-- Complete Network Engineering Diploma
-- Learn Linux Administration
-- Build Cybersecurity Projects
-- Earn Networking Certifications
-- Grow GitHub Portfolio
-
----
-
-> "Small progress every day adds up to big results."
-
-<br>
-
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdiY2N5MDhvZmQ3MDBudDdvank5cndpcjNwdmRyNzBoeWEzb205NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aJjMQdGZNAUgraf34G/giphy.gif" width="25%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=banulakannangara&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
+
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <i>Stay focused. Keep building. Keep learning.</i>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=banulakannangara&theme=tokyo-night&hide_border=true" />
+
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/banulakannangara/banulakannangara/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/banulakannangara">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Keep learning. Keep building. Keep improving."
+
+⭐ Thanks for visiting my profile!
+
+</div>
