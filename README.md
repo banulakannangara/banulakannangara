@@ -1,2 +1,168 @@
-@@ -0,0 +1,116 @@<div>  <h1 align="center">     <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Srishti Singh</mark></strong><img src="https://media.giphy.com/media/3ohzdJFbmlJ3mQFRYI/giphy.gif" width="90px">    <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> Machine Learning  <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> and brushing up my basics. </strong>    <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong>   </h1></div>---<div>  <div align="right">    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">  </div>    <div align="left">    <p align="center">        <h3 align="center">        <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">        <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">        <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">        <img src="https://media.giphy.com/media/LncsBVKWzRKRpzEdMw/giphy.gif" width="50px">        <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">        <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">      </h3>      <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>      <p align="center">        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>        <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>      </p>    </p>   </div> </div>  ---<div><p align="left">  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px">   <img align="center" src="https://media.giphy.com/media/H7YO03BHmBMWuWUkez/giphy.gif" width="180px"></p></div><br>---<p align="center">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px"></p><h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3><!-- For making transition --><p align="center"><img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px"><img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px"><img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="400px"></p><p align="center">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px"></p>## ⭐️ From [@Srishti](https://github.com/SrishtiSinghD) <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
-0 commit commentsComments0 (0)CommentSubscribeYou're not receiving notifications from this thread.
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R6eWZ6Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=BANULA+KANNANGARA;NETWORK+ENGINEER;DEVELOPER;TECH+ENTHUSIAST;BUILDING+NE-TOOLKIT" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=800&color=8B949E&center=true&vCenter=true&width=650&height=30&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=banulakannangara&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `NETWORK • CODE • BUILD`
+
+> **Turning curiosity into working systems.**
+
+</div>
+
+---
+
+## `01` // ABOUT ME
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  👋  BANULA KANNANGARA                                  │
+│                                                          │
+│  🌐  Network Engineering                                │
+│  💻  Development                                         │
+│  🔐  Cybersecurity                                       │
+│  🧠  Computer Systems                                    │
+│                                                          │
+│  CURRENTLY                                               │
+│  └── Building NE-Toolkit                                 │
+│  └── Learning SQL                                        │
+│  └── Exploring networking & systems                      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `02` // FEATURED PROJECT
+
+<div align="center">
+
+# 🌐 `NE-TOOLKIT`
+
+### `A Network Engineering Toolkit Built From Scratch`
+
+<br>
+
+<img src="https://img.shields.io/badge/NETWORK%20LAB-ONLINE-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/V5.1-ACTIVE-238636?style=for-the-badge"/>
+
+</div>
+
+```text
+                         ┌─────────────┐
+                         │  INTERNET   │
+                         └──────┬──────┘
+                                │
+                         ┌──────▼──────┐
+                         │    ROUTER   │
+                         └──────┬──────┘
+                                │
+                    ┌───────────▼───────────┐
+                    │        SWITCH        │
+                    └────┬─────────┬───────┘
+                         │         │
+                    ┌────▼───┐ ┌──▼──────┐
+                    │   PC   │ │ SERVER  │
+                    └────────┘ └─────────┘
+```
+
+`SUBNETTING` • `CIDR` • `IPv4` • `TOPOLOGY` • `DEVICES` • `FRAMES`
+
+---
+
+## `03` // STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,sql,mysql,git,github,vscode,linux&perline=10"/>
+
+</div>
+
+---
+
+## `04` // GITHUB STATS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=banulakannangara&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banulakannangara&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+## `05` // STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=banulakannangara&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
+
+</div>
+
+---
+
+## `06` // ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=banulakannangara&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `07` // TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=banulakannangara&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8"/>
+
+</div>
+
+---
+
+## `08` // CURRENTLY LEARNING
+
+<div align="center">
+
+`🌐 NETWORKING`   `💻 JAVASCRIPT`   `🗄️ SQL`   `🐧 LINUX`   `🔐 CYBERSECURITY`
+
+</div>
+
+---
+
+<div align="center">
+
+### `> SYSTEM STATUS`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=600&height=35&lines=Initializing...;Connecting+to+network...;Loading+projects...;Everything+is+online+%E2%9C%93" />
+
+<br><br>
+
+**Thanks for visiting. 🚀**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+
+</div>
