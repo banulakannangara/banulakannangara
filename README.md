@@ -1,62 +1,64 @@
-<h1 align="center">Hi 👋, I'm Banula Kannangara</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Network+Engineering+Student;Exploring+Networks%2C+Systems+%26+Technology;Always+Learning.+Always+Improving." alt="Typing SVG" />
-</p>
+# Hi, I'm Banula Kannangara 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Network+Engineering+Student;Networking+%7C+Systems+%7C+Cybersecurity;Always+Learning+%26+Improving" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Banula Kannangara**, a Network Engineering student with a strong interest in networking, systems, cybersecurity, and technology.
+I'm **Banula Kannangara**, a Network Engineering student from Sri Lanka with an interest in networking, systems, cybersecurity, and software development.
 
-I enjoy learning how things work behind the scenes — from network communication and routing to the systems that power modern technology.
+I enjoy understanding how technology works beneath the surface and continuously developing my technical skills through hands-on learning.
 
-* 🌐 Interested in **Computer Networking & Systems**
-* 🔐 Exploring **Cybersecurity**
-* 💻 Learning **Software Development**
-* 🧠 Focused on continuously improving my technical skills
-* 🇱🇰 Based in Sri Lanka
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,github,linux,vscode&perline=10" />
-</p>
+* 🎓 Network Engineering student
+* 🌐 Interested in networking & computer systems
+* 🔐 Exploring cybersecurity
+* 💻 Learning software development
+* 🧠 Always learning something new
+* 🇱🇰 Sri Lanka
 
 ---
 
-## 📊 GitHub Overview
+## Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,github,linux,vscode" alt="Technologies and tools" />
 
-## 🌱 Currently Exploring
-
-```text
-Networking
-Systems
-Cybersecurity
-JavaScript
-Python
-```
+</div>
 
 ---
 
-<p align="center">
-  <i>Building knowledge. Improving every day. One step at a time.</i>
-</p>
+## GitHub
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👨‍💻
+
+*Learn. Build. Improve.*
+
+</div>
