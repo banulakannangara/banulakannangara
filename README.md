@@ -1,11 +1,12 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="420" alt="Coding animation"/>
+<!-- Dark coding GIF -->
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="320" alt="Coding animation"/>
 
 # BANULA KANNANGARA
 
-### Network Engineering Student | Cybersecurity Enthusiast
+### 🌐 Network Engineering Student | 🔐 Cybersecurity Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Network+Engineering;Cybersecurity+Enthusiast;Linux+%7C+Networking+%7C+Programming;Always+Learning+Something+New" alt="Typing animation"/>
 
@@ -18,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding animation" width="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" alt="Coding animation" width="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 - 🎓 First-year Network Engineering student at NIBM
 - 🌐 Interested in networking, routing, and switching
@@ -47,18 +48,6 @@
 
 ---
 
-## 🌐 Network & Technology
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Technology animation"/>
-
-*Understanding the systems that connect and secure our digital world.*
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -71,6 +60,28 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=banulakannangara&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌐 Network & Technology
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="Technology animation"/>
+
+*Understanding the systems that connect and secure our digital world.*
+
+</div>
+
+---
+
 ## 🎯 Areas of Interest
 
 <div align="center">
@@ -78,8 +89,6 @@
 🌐 **Networking** &nbsp; • &nbsp; 🔐 **Cybersecurity**
 
 🐧 **Linux** &nbsp; • &nbsp; 💻 **Programming** &nbsp; • &nbsp; ☁️ **Cloud Technologies**
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Computer animation"/>
 
 </div>
 
