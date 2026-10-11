@@ -1,8 +1,8 @@
 
 <div align="center">
 
-<!-- Dark coding GIF -->
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="320" alt="Coding animation"/>
+<!-- Dark terminal / coding GIF -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Dark terminal coding animation"/>
 
 # BANULA KANNANGARA
 
